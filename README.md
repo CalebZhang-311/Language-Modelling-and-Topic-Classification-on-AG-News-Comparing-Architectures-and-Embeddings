@@ -167,7 +167,7 @@ Each representation uses a training-fitted StandardScaler and logistic regressio
 
 The selected classifiers are evaluated on the test split using accuracy, macro-F1, per-topic metrics, confusion matrices, and illustrative errors.
 
-## 6. Recorded results and outputs
+## 5. Recorded results and outputs
 
 Recorded test perplexities:
 
